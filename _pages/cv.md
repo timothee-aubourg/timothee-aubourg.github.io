@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-*Oxford, UK · timothee.aubourg@ndcn.ox.ac.uk · [timothee-aubourg.github.io](https://timothee-aubourg.github.io) · [ORCID 0000-0002-0151-6397](https://orcid.org/0000-0002-0151-6397)*
-
----
-
 ## Current Position
 
 **Postdoctoral Researcher**, Nuffield Department of Clinical Neurosciences, University of Oxford (May 2024 – present). I drive and contribute to the long-term strategy for digital biomarker research in Parkinson's disease, integrating passive and active sensing modalities — smartphones, wearables, neuromotor pen, gait analysis systems, and clinical questionnaires — with a roadmap toward neuroimaging and biofluid biomarker integration. I coordinate a global network of research projects across 20+ sites on 5 continents, and contribute to the development of ML models for disease progression characterisation and patient subtyping.
