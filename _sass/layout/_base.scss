@@ -350,6 +350,61 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   border-radius: 8px !important;
 }
 
+/* Mobile masthead fixes */
+@media (max-width: 768px) {
+  .masthead {
+    position: relative;
+  }
+
+  .masthead__inner-wrap {
+    padding: 0.4em 0.8em;
+  }
+
+  .greedy-nav .visible-links {
+    display: none;
+  }
+
+  .greedy-nav.nav--active .visible-links {
+    display: block;
+    background: var(--global-bg-color);
+    width: 100%;
+    padding: 0.5em 0;
+  }
+
+  .greedy-nav .visible-links li {
+    display: block;
+    padding: 0.4em 1em;
+  }
+
+  .greedy-nav button {
+    display: block !important;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5em;
+    float: right;
+  }
+
+  .navicon,
+  .navicon::before,
+  .navicon::after {
+    background: var(--global-text-color);
+    display: block;
+    height: 2px;
+    width: 1.5em;
+    position: relative;
+  }
+
+  .navicon::before,
+  .navicon::after {
+    content: '';
+    position: absolute;
+  }
+
+  .navicon::before { top: -6px; }
+  .navicon::after  { top: 6px; }
+}
+
 /* ==========================================================================
    PRINT STYLES
    ========================================================================== */

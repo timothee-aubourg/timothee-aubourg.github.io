@@ -3,6 +3,19 @@
 <!-- Force light mode always -->
 <script>localStorage.setItem('theme', 'light');</script>
 
+<!-- Mobile nav toggle -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var btn = document.querySelector('.greedy-nav button');
+    var nav = document.querySelector('.greedy-nav');
+    if (btn && nav) {
+      btn.addEventListener('click', function() {
+        nav.classList.toggle('nav--active');
+      });
+    }
+  });
+</script>
+
 <!-- start custom head snippets -->
 
 <!-- Support for Academicons -->
