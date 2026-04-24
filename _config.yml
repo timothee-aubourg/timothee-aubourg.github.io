@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-GB"
-title                    : "Timothee Aubourg"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Timothee Aubourg"
 description              : &description "Postdoctoral Researcher in Digital Health AI & Multimodal Biomarkers | University of Oxford"

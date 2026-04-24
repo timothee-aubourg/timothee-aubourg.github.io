@@ -16,8 +16,9 @@ redirect_from:
 PhD, Health Engineering — Université Grenoble-Alpes / Orange Labs (2017–2020)  
 *Thesis: Digital phenotyping of behavioural rhythms from mobile phone metadata. Supervisors: Prof. N. Vuillerme & Prof. J. Demongeot.*
 
-MSc, Applied Mathematics (Statistics & Data Science) — Université Grenoble-Alpes (2017)  
-BSc, Mathematics & Computer Science — Université Grenoble-Alpes (2017)
+MSc, Applied Mathematics (Statistics & Data Science) — Université Grenoble-Alpes (2017)
+
+BSc, Mathematics & Computer Science — Université Grenoble-Alpes (2015)
 
 ## Previous Experience
 
