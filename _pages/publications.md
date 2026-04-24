@@ -7,7 +7,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=y9gR9AYAAAAJ) &nbsp;|&nbsp; [ORCID 0000-0002-0151-6397](https://orcid.org/0000-0002-0151-6397)
 
-*Metrics auto-updated weekly from Google Scholar. Last updated: {{ site.data.scholar_stats.last_updated }}.*
+*Last updated: {{ site.data.scholar_stats.last_updated }}*
 
 <table style="width:auto; border-collapse: collapse; font-size: 0.95em; margin: 1em 0;">
   <tr>
