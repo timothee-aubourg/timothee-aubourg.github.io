@@ -10,19 +10,19 @@ author_profile: true
 <table style="width:auto; border-collapse: collapse; font-size: 0.95em; margin: 1em 0;">
   <tr>
     <td style="padding: 8px 24px 8px 0; text-align: center; vertical-align: top;">
-      <div style="font-size: 1.6em; font-weight: 600; color: #333;">301</div>
+      <div style="font-size: 1.6em; font-weight: 600; color: #333;">{{ site.data.scholar_stats.citations }}</div>
       <div style="font-size: 0.8em; color: #888; text-transform: uppercase; letter-spacing: 0.05em;">Citations</div>
     </td>
     <td style="padding: 8px 24px; text-align: center; vertical-align: top; border-left: 1px solid #e0e0e0;">
-      <div style="font-size: 1.6em; font-weight: 600; color: #333;">9</div>
+      <div style="font-size: 1.6em; font-weight: 600; color: #333;">{{ site.data.scholar_stats.h_index }}</div>
       <div style="font-size: 0.8em; color: #888; text-transform: uppercase; letter-spacing: 0.05em;">h-index</div>
     </td>
     <td style="padding: 8px 24px; text-align: center; vertical-align: top; border-left: 1px solid #e0e0e0;">
-      <div style="font-size: 1.6em; font-weight: 600; color: #333;">17</div>
+      <div style="font-size: 1.6em; font-weight: 600; color: #333;">{{ site.data.scholar_stats.publications }}</div>
       <div style="font-size: 0.8em; color: #888; text-transform: uppercase; letter-spacing: 0.05em;">Publications</div>
     </td>
     <td style="padding: 8px 24px; text-align: center; vertical-align: top; border-left: 1px solid #e0e0e0;">
-      <div style="font-size: 1.6em; font-weight: 600; color: #333;">1</div>
+      <div style="font-size: 1.6em; font-weight: 600; color: #333;">{{ site.data.scholar_stats.patent }}</div>
       <div style="font-size: 0.8em; color: #888; text-transform: uppercase; letter-spacing: 0.05em;">Patent</div>
     </td>
   </tr>
