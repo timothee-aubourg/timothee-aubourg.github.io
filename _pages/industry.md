@@ -13,7 +13,7 @@ After my postdoc in 2021, I moved into industry for a few years, driven by carin
 
 I worked on predictive ML systems for battery cell performance, at one of Europe's first large-scale gigafactories, during a critical scale-up phase.
 
-The core scientific challenge was coordinating analysis from multiple physical machines across a pilot production line, while minimising the cost and complexity of approaches to allow their scaling in a gigafactory context. All of this in a fast-changing environment, where processes were continuously evolving and data was accumulating faster than it could be understood.
+The core scientific challenge was coordinating analysis from multiple physical machines across a pilot production line, while minimising the cost and complexity of approaches to allow their scaling in a gigafactory context. All of this in a fast-changing environment, where processes were continuously evolving and large volumes of data were accumulating in parallel.
 
 I built monitoring and drift detection frameworks to track model performance over time in live production environments. I also developed internal reporting dashboards using Streamlit. The parallels with clinical research are real. In both settings, the data is noisy, the ground truth is hard to obtain, and the people who need to use the outputs are not data scientists. The stack included Python, Spark and Databricks, Docker, and Git/GitHub.
 
