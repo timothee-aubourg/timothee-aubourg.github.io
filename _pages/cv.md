@@ -9,22 +9,22 @@ redirect_from:
 
 ## Current Position
 
-**Postdoctoral Researcher**, Nuffield Department of Clinical Neurosciences, University of Oxford (May 2024 – present). I work on digital biomarker research in Parkinson's disease, across passive and active sensing modalities — smartphones, wearables, neuromotor pen, gait analysis systems, and clinical questionnaires. I coordinate the data work for a network of research projects across 20+ sites on 5 continents, and develop ML models for disease progression characterisation and patient subtyping.
+**Postdoctoral Researcher**, Nuffield Department of Clinical Neurosciences, University of Oxford (May 2024 – present). I work on digital biomarker research in Parkinson's disease, across passive and active sensing modalities: smartphones, wearables, neuromotor pen, gait analysis systems, and clinical questionnaires. I coordinate the data work for a network of research projects across 20+ sites on 5 continents, and develop ML models for disease progression characterisation and patient subtyping.
 
 ## Education
 
-PhD, Health Engineering — Université Grenoble-Alpes / Orange Labs (2017–2020)  
+PhD, Health Engineering, Université Grenoble-Alpes / Orange Labs (2017–2020)  
 *Thesis: Digital phenotyping of behavioural rhythms from mobile phone metadata. Supervisors: Prof. N. Vuillerme & Prof. J. Demongeot.*
 
-MSc, Applied Mathematics (Statistics & Data Science) — Université Grenoble-Alpes (2017)
+MSc, Applied Mathematics (Statistics & Data Science), Université Grenoble-Alpes (2017)
 
-BSc, Mathematics & Computer Science — Université Grenoble-Alpes (2015)
+BSc, Mathematics & Computer Science, Université Grenoble-Alpes (2015)
 
 ## Previous Experience
 
 **AI Innovation Senior Engineer**, Verkor, Grenoble (2023–2024). Predictive ML pipelines for real-world battery cell performance forecasting during gigafactory scale-up; production monitoring and drift detection frameworks.
 
-**Application Engineer – Data Scientist**, Araymond Networks, Grenoble (2021–2023). AI-based anomaly detection for manufacturing quality control in real-world production environments, within a startup incubator accelerating translation from scientific AI to field deployment.
+**Application Engineer, Data Scientist**, ARaymond, Grenoble (2021–2023). AI-based anomaly detection for manufacturing quality control in real-world production environments, within a startup incubator accelerating translation from scientific AI to field deployment.
 
 **Postdoctoral Researcher**, Université Grenoble-Alpes (2021). Wearable accelerometer-based gait phenotyping using ensemble learning. 2 publications; 1 patent; MSc intern supervision.
 
@@ -55,7 +55,7 @@ Full list available via [Google Scholar](https://scholar.google.com/citations?us
 <table style="width:100%; border-collapse: collapse; font-size: 0.95em;">
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666; width: 60px;"><strong>2026</strong></td>
-    <td style="padding: 6px 0;">Finalist, Oxford Clinical AI Hackathon — Agentic AI track (Jesus College, Oxford)</td>
+    <td style="padding: 6px 0;">Finalist, Oxford Clinical AI Hackathon, Agentic AI track (Jesus College, Oxford)</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;"><strong>2026</strong></td>

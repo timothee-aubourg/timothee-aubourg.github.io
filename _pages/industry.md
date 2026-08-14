@@ -11,14 +11,14 @@ Both roles were about the same underlying problem: getting a model to work in a 
 
 ---
 
-## [Verkor — Predictive ML for battery cell performance](/industry/verkor/)
+## [Verkor: predictive ML for battery cell performance](/industry/verkor/)
 **AI Innovation Senior Engineer, Grenoble (2023–2024)**
 
 Predictive models for battery cell performance across a pilot production line at one of Europe's first large-scale gigafactories, with monitoring and drift detection for models running in production.
 
 ---
 
-## [Araymond — SmartGlove](/industry/smartglove/)
-**Application Engineer – Data Scientist, Grenoble (2021–2023)**
+## [ARaymond: SmartGlove](/industry/smartglove/)
+**Application Engineer, Data Scientist, Grenoble (2021–2023)**
 
 AI-based anomaly detection for manufacturing quality control from multi-source sensor data, within an internal incubator translating scientific AI projects into field-deployable products.

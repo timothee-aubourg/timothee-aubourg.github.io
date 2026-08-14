@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the [Nuffield Department of Clinical Neurosciences](https://www.ndcn.ox.ac.uk/), University of Oxford, working on digital measurement in Parkinson's disease.
 
-My work is on smartphone and wearable data collected from people with Parkinson's — both passive sensing from everyday life and short active tests — and on turning that data into measures clinicians can use. In practice that means feature extraction from sensor data, models of motor progression, and the validation work needed before any of it counts as a clinical measure. I coordinate the data side of this across the [Oxford Parkinson's Disease Centre](https://www.dpag.ox.ac.uk/opdc)'s multi-site collaborations.
+My work is on smartphone and wearable data collected from people with Parkinson's, both passive sensing from everyday life and short active tests. The task is to turn that data into measures clinicians can use. In practice that means feature extraction from sensor data, models of motor progression, and the validation work needed before any of it counts as a clinical measure. I coordinate the data side of this across the [Oxford Parkinson's Disease Centre](https://www.dpag.ox.ac.uk/opdc)'s multi-site collaborations.
 
 I did my [PhD in Health Engineering](https://theses.fr/2020GRALS037) at the Université Grenoble-Alpes with Orange Labs (2020), asking whether rhythms in phone use track social behaviour and mental health in older adults. I then spent a year on wearable-based gait analysis, and three years [in industry](/industry/) as a data scientist and AI engineer, on multi-sensor fusion and ML systems in production. I returned to academia in 2024. Clinical constraints, sensor data, and fairly ordinary engineering discipline all have to hold together at once here, and I enjoy that combination.
 
@@ -26,7 +26,7 @@ I served as Local Network Lead Liaison for [Reproducible Research Oxford](https:
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">July 2026</td>
-    <td style="padding: 6px 0;">Faculty Instructor, <a href="https://www.some.ox.ac.uk/the-oicsd/collaborations/">Oxford India Centre for Sustainable Development (OICSD)</a>, Somerville College, University of Oxford — teaching AI for sustainable development.</td>
+    <td style="padding: 6px 0;">Faculty Instructor, <a href="https://www.some.ox.ac.uk/the-oicsd/collaborations/">Oxford India Centre for Sustainable Development (OICSD)</a>, Somerville College, University of Oxford. Teaching AI for sustainable development.</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">April 2026</td>

@@ -14,7 +14,7 @@ repository               : "timothee-aubourg/timothee-aubourg.github.io"
 
 # SEO Related
 
-# Site Author — controls the sidebar
+# Site Author: controls the sidebar
 author:
   name             : *name
   avatar           : "profile.png"
