@@ -59,6 +59,13 @@ Ad hoc reviewer for *npj Digital Medicine*.
 
 ---
 
+## University Service
+
+**AI Ambassador**, Nuffield Department of Clinical Neurosciences, University of Oxford *(2026–present)*  
+AI Competency Centre.
+
+---
+
 ## Open Science & Community
 
 **Reproducible Research Oxford**, Local Network Lead Liaison *(2025–2026)*  

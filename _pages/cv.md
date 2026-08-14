@@ -11,6 +11,8 @@ redirect_from:
 
 **Postdoctoral Researcher**, Nuffield Department of Clinical Neurosciences, University of Oxford (May 2024 – present). I work on digital biomarker research in Parkinson's disease, across passive and active sensing modalities: smartphones, wearables, neuromotor pen, gait analysis systems, and clinical questionnaires. I coordinate the data work for a network of research projects across 20+ sites on 5 continents, and develop ML models for disease progression characterisation and patient subtyping.
 
+**AI Ambassador**, Nuffield Department of Clinical Neurosciences, University of Oxford (2026 – present). AI Competency Centre.
+
 ## Education
 
 PhD, Health Engineering, Université Grenoble-Alpes / Orange Labs (2017–2020)  
@@ -91,7 +93,11 @@ Full list available via [Google Scholar](https://scholar.google.com/citations?us
 
 <table style="width:100%; border-collapse: collapse; font-size: 0.95em;">
   <tr>
-    <td style="padding: 6px 12px 6px 0; vertical-align: top; color: #666; width: 180px;">Peer reviewer</td>
+    <td style="padding: 6px 12px 6px 0; vertical-align: top; color: #666; width: 180px;">AI Ambassador</td>
+    <td style="padding: 6px 0;">Nuffield Department of Clinical Neurosciences, AI Competency Centre (2026–present)</td>
+  </tr>
+  <tr>
+    <td style="padding: 6px 12px 6px 0; vertical-align: top; color: #666;">Peer reviewer</td>
     <td style="padding: 6px 0;"><em>npj Digital Medicine</em></td>
   </tr>
   <tr>
