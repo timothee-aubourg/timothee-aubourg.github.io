@@ -32,15 +32,15 @@ author_profile: true
 
 ---
 
-## Under Review
-
-**Aubourg, T.** et al. Identifying and predicting fast vs slow motor progressors in Parkinson's disease using clinical and digital data. Submitted to *BMJ Neurology Open* (2026).
-
----
-
 ## Highlighted Publications
 
 A selection. The full list is on [Google Scholar](https://scholar.google.com/citations?user=y9gR9AYAAAAJ) and [ORCID](https://orcid.org/0000-0002-0151-6397).
+
+## 2026
+
+**Aubourg, T.**, Gunter, K., Lo, C. et al. Identifying and predicting fast versus slow Parkinson's disease motor progressors using clinical and digital data. *BMJ Neurology Open* **8**, e001740 (2026). [doi:10.1136/bmjno-2026-001740](https://doi.org/10.1136/bmjno-2026-001740)
+
+---
 
 ## 2025
 

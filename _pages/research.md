@@ -11,7 +11,7 @@ My doctoral work (Orange Labs / Université Grenoble-Alpes, 2017–2020) looked 
 
 ## Motor trajectory stratification and disease progression
 
-Parkinson's disease progresses very differently between patients. I use unsupervised machine learning to stratify motor trajectories — grouping patients by the shape and speed of their progression — and then test whether smartphone-based clinical assessments taken at a single baseline visit can predict which group a patient falls into. This is the subject of a paper currently under review at *BMJ Neurology Open*.
+Parkinson's disease progresses very differently between patients. I use unsupervised machine learning to stratify motor trajectories — grouping patients by the shape and speed of their progression — and then test whether smartphone-based clinical assessments taken at a single baseline visit can predict which group a patient falls into. This is the subject of [a 2026 paper in *BMJ Neurology Open*](https://doi.org/10.1136/bmjno-2026-001740).
 
 ## Composite scores and clinical validation of digital tools
 

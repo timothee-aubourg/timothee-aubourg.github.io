@@ -22,6 +22,10 @@ I am also involved in [reproducible research](https://www.ox.ac.uk/research/supp
 <table style="width:100%; border-collapse: collapse; font-size: 0.95em;">
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666; width: 90px;">July 2026</td>
+    <td style="padding: 6px 0;">First-author paper in <a href="https://doi.org/10.1136/bmjno-2026-001740"><em>BMJ Neurology Open</em></a> on identifying and predicting fast versus slow motor progressors in Parkinson's disease.</td>
+  </tr>
+  <tr>
+    <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">July 2026</td>
     <td style="padding: 6px 0;">Faculty Instructor, <a href="https://www.some.ox.ac.uk/the-oicsd/collaborations/">Oxford India Centre for Sustainable Development (OICSD)</a>, Somerville College, University of Oxford — teaching AI for sustainable development.</td>
   </tr>
   <tr>

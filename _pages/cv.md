@@ -36,7 +36,7 @@ I currently mentor a DPhil student in Medical AI at the University of Oxford. In
 
 ## Selected Publications
 
-Aubourg, T. et al. Identifying and predicting fast vs slow motor progressors in Parkinson's disease using clinical and digital data. *BMJ Neurology Open* (2026, under review).
+Aubourg, T. et al. Identifying and predicting fast versus slow Parkinson's disease motor progressors using clinical and digital data. *BMJ Neurology Open* 8, e001740 (2026).
 
 Gunter, K., Aubourg, T. et al. Smartphone-based prediction of dopaminergic deficit in prodromal and manifest Parkinson's disease. *npj Digital Medicine* (2025).
 
