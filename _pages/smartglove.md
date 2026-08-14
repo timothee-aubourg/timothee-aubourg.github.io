@@ -27,4 +27,4 @@ The outcome I care most about was a shift from blind data acquisition to a quali
 
 ## Stack
 
-Python · MongoDB · Docker · Git/GitHub
+Python · MongoDB · Azure · Docker · Git/GitHub
