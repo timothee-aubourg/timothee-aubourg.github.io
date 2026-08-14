@@ -13,7 +13,6 @@ baseurl                  : ""
 repository               : "timothee-aubourg/timothee-aubourg.github.io"
 
 # SEO Related
-google_scholar_stats_use_cdn : true
 
 # Site Author — controls the sidebar
 author:
