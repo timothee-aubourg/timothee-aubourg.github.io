@@ -9,7 +9,7 @@ redirect_from:
 
 ## Current Position
 
-**Postdoctoral Researcher**, Nuffield Department of Clinical Neurosciences, University of Oxford (May 2024 – present). I drive and contribute to the long-term strategy for digital biomarker research in Parkinson's disease, integrating passive and active sensing modalities — smartphones, wearables, neuromotor pen, gait analysis systems, and clinical questionnaires — with a roadmap toward neuroimaging and biofluid biomarker integration. I coordinate a global network of research projects across 20+ sites on 5 continents, and contribute to the development of ML models for disease progression characterisation and patient subtyping.
+**Postdoctoral Researcher**, Nuffield Department of Clinical Neurosciences, University of Oxford (May 2024 – present). I work on digital biomarker research in Parkinson's disease, across passive and active sensing modalities — smartphones, wearables, neuromotor pen, gait analysis systems, and clinical questionnaires. I coordinate the data work for a network of research projects across 20+ sites on 5 continents, and develop ML models for disease progression characterisation and patient subtyping.
 
 ## Education
 
@@ -32,7 +32,7 @@ BSc, Mathematics & Computer Science — Université Grenoble-Alpes (2015)
 
 ## Teaching & Supervision
 
-I currently mentor a DPhil student in Medical AI at the University of Oxford. In July 2026, I will serve as a Faculty Instructor at the [OICSD–UPL Faculty Visit to Oxford](https://www.some.ox.ac.uk/the-oicsd/collaborations/), hosted by the Oxford India Centre for Sustainable Development, Somerville College, with a focus on AI, pedagogy, and research-led teaching. I previously supervised MSc interns at Orange Labs / Université Grenoble-Alpes (2017–2020) and École Centrale Paris (2020).
+I currently mentor a DPhil student in Medical AI at the University of Oxford. In July 2026 I served as a Faculty Instructor at the [OICSD–UPL Faculty Visit to Oxford](https://www.some.ox.ac.uk/the-oicsd/collaborations/), hosted by the Oxford India Centre for Sustainable Development, Somerville College, on AI, pedagogy, and research-led teaching. I previously supervised MSc interns at Orange Labs / Université Grenoble-Alpes (2017–2020) and École Centrale Paris (2020).
 
 ## Selected Publications
 

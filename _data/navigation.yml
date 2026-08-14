@@ -3,9 +3,11 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "R&D Experience"
+  - title: "Industry"
     url: /industry/
   - title: "Publications"
     url: /publications/
+  - title: "Talks & Service"
+    url: /talks/
   - title: "CV"
     url: /cv/

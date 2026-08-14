@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Talks & Media"
+title: "Talks & Service"
 permalink: /talks/
 author_profile: true
 ---
 
-## Selected Talks & Events
+## Talks & Events
 
 ---
 
@@ -14,7 +14,7 @@ author_profile: true
 **Oxford Clinical AI Hackathon** — Communication Challenge, Agentic AI Track  
 *Jesus College, University of Oxford — April 2026*  
 🏅 **Finalist** · 🎓 **Scholarship Recipient**  
-Hosted by the [AI Competency Centre](https://aiccc.uk/). An intensive multi-day hackathon bringing together clinicians, engineers, and AI researchers to develop and communicate solutions to real clinical problems using frontier AI methods.  
+Hosted by the [AI Competency Centre](https://aiccc.uk/), bringing together clinicians, engineers, and AI researchers to build and present solutions to real clinical problems.  
 → [Event details](https://aiccc.uk/oxford-clinical-ai-hackathon)
 
 ---
@@ -29,8 +29,12 @@ Hosted by the [AI Competency Centre](https://aiccc.uk/). An intensive multi-day 
 *Oxford, UK — 2019*  
 EIT Health Translational Fellow and Judges' Award recipient. Presented translational digital health research to European innovation panel.
 
+---
+
+### 2018
+
 **Medical Faculty Presentation Award** — Université Grenoble-Alpes  
-*Grenoble, France — 2018*
+*Grenoble, France*
 
 ---
 

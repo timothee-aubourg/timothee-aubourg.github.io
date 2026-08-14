@@ -7,23 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic homepage. I am a Postdoctoral Researcher at the [Nuffield Department of Clinical Neurosciences](https://www.ndcn.ox.ac.uk/), University of Oxford. My research sits at the intersection of data science and Digital Health Technologies, with a current focus in neurology on Parkinson's disease.
+I am a Postdoctoral Researcher at the [Nuffield Department of Clinical Neurosciences](https://www.ndcn.ox.ac.uk/), University of Oxford, working on digital measurement in Parkinson's disease.
 
-I obtained my [PhD in Health Engineering](https://theses.fr/2020GRALS037) from the Université Grenoble-Alpes in 2020, jointly with Orange Labs. My doctoral work explored whether the rhythms of daily phone use could serve as a proxy for social behaviour and mental health in elderly populations. After my doctorate, I spent a year extending this to gait analysis and movement. I then joined industry as a [data scientist and AI engineer](/industry/) for three years, working on multi-sensor fusion problems and deploying machine learning systems in production settings. Back in academia, I now try to bring these two sides together, working on [Parkinson's disease research](https://www.ndcn.ox.ac.uk/) from early exploratory analysis to validation.
+My work is on smartphone and wearable data collected from people with Parkinson's — both passive sensing from everyday life and short active tests — and on turning that data into measures clinicians can use. In practice that means feature extraction from sensor data, models of motor progression, and the validation work needed before any of it counts as a clinical measure. I coordinate the data side of this across the [Oxford Parkinson's Disease Centre](https://www.dpag.ox.ac.uk/opdc)'s multi-site collaborations.
 
----
+I did my [PhD in Health Engineering](https://theses.fr/2020GRALS037) at the Université Grenoble-Alpes with Orange Labs (2020), asking whether rhythms in phone use track social behaviour and mental health in older adults. I then spent a year on wearable-based gait analysis, and three years [in industry](/industry/) as a data scientist and AI engineer, on multi-sensor fusion and ML systems in production. I returned to academia in 2024. Clinical constraints, sensor data, and fairly ordinary engineering discipline all have to hold together at once here, and I enjoy that combination.
 
-## Research Interests
-
-My interests are broadly in **multimodal AI** and **data science for health**, with a particular focus on Digital Health Technologies for neurological disorders.
-
-The question I keep returning to is *measurement*: what can digital tools — smartphones, wearables, neuromotor sensors, gait systems — actually tell us about disease, and how do we extract signal that is both meaningful and clinically trustworthy? This means combining passive sensing from everyday life, active clinical digital assessments, and structured clinical records. Good solutions tend to live at the junction of novel AI approaches, new data sources, and fairly classical experimental and engineering discipline, all shaped by clinical constraints. I enjoy that combination.
-
-Equally important is keeping sight of where this needs to land: in clinical practice, not just in a paper. That requires genuine multidisciplinary alignment, which is something I value in the [Oxford Parkinson's Disease Centre](https://www.dpag.ox.ac.uk/opdc). Seeing research translate into real patient benefit is what ultimately motivates this work, including through the [health innovation ecosystem](https://www.kneuhealth.com/) I am part of.
-
-More recently I find myself drawn to agentic AI. What interests me is what it could enable in practice: faster iteration with clinicians and better handling of the unstructured complexity that multi-sensor fusion produces.
-
-Outside research, I care about open and reproducible science and try to be involved in [that community](https://www.ox.ac.uk/research/support/research-culture/research-practice/reproducible-research-oxford) more broadly in academia.
+I am also involved in [reproducible research](https://www.ox.ac.uk/research/support/research-culture/research-practice/reproducible-research-oxford) at Oxford, and work with [Kneuhealth](https://www.kneuhealth.com/) on moving research-grade digital biomarkers toward clinical products.
 
 ---
 
@@ -32,7 +22,7 @@ Outside research, I care about open and reproducible science and try to be invol
 <table style="width:100%; border-collapse: collapse; font-size: 0.95em;">
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666; width: 90px;">July 2026</td>
-    <td style="padding: 6px 0;">Appointed Faculty Instructor, <a href="https://www.some.ox.ac.uk/the-oicsd/collaborations/">Oxford India Centre for Sustainable Development (OICSD)</a>, Somerville College, University of Oxford — teaching AI for sustainable development.</td>
+    <td style="padding: 6px 0;">Faculty Instructor, <a href="https://www.some.ox.ac.uk/the-oicsd/collaborations/">Oxford India Centre for Sustainable Development (OICSD)</a>, Somerville College, University of Oxford — teaching AI for sustainable development.</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">April 2026</td>
@@ -44,7 +34,7 @@ Outside research, I care about open and reproducible science and try to be invol
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2025</td>
-    <td style="padding: 6px 0;">Appointed Reproducible Research Oxford Local Network Lead Liaison, University of Oxford.</td>
+    <td style="padding: 6px 0;">Reproducible Research Oxford Local Network Lead Liaison, University of Oxford.</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">Sept 2024</td>
@@ -52,7 +42,7 @@ Outside research, I care about open and reproducible science and try to be invol
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2024</td>
-    <td style="padding: 6px 0;">Appointed FAIRsharing Community Champion, University of Oxford.</td>
+    <td style="padding: 6px 0;">FAIRsharing Community Champion, University of Oxford.</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2024</td>

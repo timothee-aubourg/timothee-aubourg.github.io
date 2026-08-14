@@ -32,15 +32,15 @@ author_profile: true
 
 ---
 
-## Highlighted Publications
+## Under Review
 
-This is a curated selection of key papers. The full list is available on [Google Scholar](https://scholar.google.com/citations?user=y9gR9AYAAAAJ) and [ORCID](https://orcid.org/0000-0002-0151-6397).
-
-**2026**
-
-**Aubourg, T.** et al. Identifying and predicting fast vs slow motor progressors in Parkinson's disease using clinical and digital data. *BMJ Neurology Open* (2026). *(under review)*
+**Aubourg, T.** et al. Identifying and predicting fast vs slow motor progressors in Parkinson's disease using clinical and digital data. Submitted to *BMJ Neurology Open* (2026).
 
 ---
+
+## Highlighted Publications
+
+A selection. The full list is on [Google Scholar](https://scholar.google.com/citations?user=y9gR9AYAAAAJ) and [ORCID](https://orcid.org/0000-0002-0151-6397).
 
 ## 2025
 
