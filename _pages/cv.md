@@ -32,7 +32,7 @@ BSc, Mathematics & Computer Science — Université Grenoble-Alpes (2015)
 
 ## Teaching & Supervision
 
-I currently mentor a DPhil student in Medical AI at the University of Oxford. In July 2026 I served as a Faculty Instructor at the [OICSD–UPL Faculty Visit to Oxford](https://www.some.ox.ac.uk/the-oicsd/collaborations/), hosted by the Oxford India Centre for Sustainable Development, Somerville College, on AI, pedagogy, and research-led teaching. I previously supervised MSc interns at Orange Labs / Université Grenoble-Alpes (2017–2020) and École Centrale Paris (2020).
+In July 2026 I served as a Faculty Instructor at the [OICSD–UPL Faculty Visit to Oxford](https://www.some.ox.ac.uk/the-oicsd/collaborations/), hosted by the Oxford India Centre for Sustainable Development, Somerville College, on AI, pedagogy, and research-led teaching. I previously supervised MSc interns at Orange Labs / Université Grenoble-Alpes (2017–2020).
 
 ## Selected Publications
 
@@ -55,14 +55,14 @@ Full list available via [Google Scholar](https://scholar.google.com/citations?us
 <table style="width:100%; border-collapse: collapse; font-size: 0.95em;">
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666; width: 60px;"><strong>2026</strong></td>
-    <td style="padding: 6px 0;">Finalist, Oxford Clinical AI Hackathon — Communication Challenge, Agentic AI track (Jesus College, Oxford)</td>
+    <td style="padding: 6px 0;">Finalist, Oxford Clinical AI Hackathon — Agentic AI track (Jesus College, Oxford)</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;"><strong>2026</strong></td>
     <td style="padding: 6px 0;">Scholarship, Oxford Clinical AI Hackathon, AI Competency Centre</td>
   </tr>
   <tr>
-    <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;"><strong>2025–</strong></td>
+    <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;"><strong>2025–26</strong></td>
     <td style="padding: 6px 0;">Reproducible Research Oxford Local Network Lead Liaison</td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ Full list available via [Google Scholar](https://scholar.google.com/citations?us
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; vertical-align: top; color: #666;">Reproducible Research Oxford</td>
-    <td style="padding: 6px 0;">Local Network Lead Liaison (2025–present)</td>
+    <td style="padding: 6px 0;">Local Network Lead Liaison (2025–2026)</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; vertical-align: top; color: #666;">FAIRsharing</td>

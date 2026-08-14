@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2026
 
-**Oxford Clinical AI Hackathon** — Communication Challenge, Agentic AI Track  
+**Oxford Clinical AI Hackathon** — Agentic AI Track  
 *Jesus College, University of Oxford — April 2026*  
 🏅 **Finalist** · 🎓 **Scholarship Recipient**  
 Hosted by the [AI Competency Centre](https://aiccc.uk/), bringing together clinicians, engineers, and AI researchers to build and present solutions to real clinical problems.  
@@ -57,10 +57,10 @@ Ad hoc reviewer for:
 
 ## Open Science & Community
 
-**Reproducible Research Oxford** — Local Network Lead Liaison *(2025–present)*  
-Coordinating initiatives to promote reproducible and open research practices across Oxford's biomedical research community.
+**Reproducible Research Oxford** — Local Network Lead Liaison *(2025–2026)*  
+Coordinated initiatives promoting reproducible and open research practices across Oxford's biomedical research community.
 
-**FAIRsharing Community Champion** — University of Oxford *(2024–present)*  
-Advocating metadata standards and structured data sharing.
+**FAIRsharing Community Champion** — University of Oxford *(2024–2025)*  
+Advocated metadata standards and structured data sharing.
 
 **Open and Responsible Research Scholarship** — Berlin School of Public Health *(September 2024)*
