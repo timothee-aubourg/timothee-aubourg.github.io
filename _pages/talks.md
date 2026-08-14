@@ -47,11 +47,7 @@ Special Issue: DHTs in Assessment and Intervention of Symptoms of Parkinson's Di
 
 ## Peer Review Activity
 
-Ad hoc reviewer for:
-- *JMIR* (Journal of Medical Internet Research)
-- *JMIR mHealth and uHealth*
-- *Scientific Reports*
-- *npj Digital Medicine*
+Ad hoc reviewer for *npj Digital Medicine*.
 
 ---
 

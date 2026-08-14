@@ -92,7 +92,7 @@ Full list available via [Google Scholar](https://scholar.google.com/citations?us
 <table style="width:100%; border-collapse: collapse; font-size: 0.95em;">
   <tr>
     <td style="padding: 6px 12px 6px 0; vertical-align: top; color: #666; width: 180px;">Peer reviewer</td>
-    <td style="padding: 6px 0;"><em>JMIR</em>, <em>JMIR mHealth & uHealth</em>, <em>Scientific Reports</em>, <em>npj Digital Medicine</em></td>
+    <td style="padding: 6px 0;"><em>npj Digital Medicine</em></td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; vertical-align: top; color: #666;">Reproducible Research Oxford</td>
