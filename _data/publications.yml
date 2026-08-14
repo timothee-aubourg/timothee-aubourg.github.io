@@ -1,0 +1,138 @@
+- title: Identifying and predicting fast versus slow Parkinson's disease motor progressors
+    using clinical and digital data
+  authors: Aubourg, T., Gunter, K., Lo, C. et al.
+  venue: BMJ Neurology Open
+  year: 2026
+  doi: 10.1136/bmjno-2026-001740
+  url: https://doi.org/10.1136/bmjno-2026-001740
+  citations: 0
+- title: Smartphone-based prediction of dopaminergic deficit in prodromal and manifest
+    Parkinson's disease
+  authors: Gunter, K., Groenewald, K., Aubourg, T. et al.
+  venue: npj Digital Medicine
+  year: 2025
+  doi: 10.1038/s41746-025-02148-2
+  url: https://doi.org/10.1038/s41746-025-02148-2
+  citations: 2
+- title: An Unsupervised Classifier for Whole-Genome Phylogenies, the Maxwell© Tool
+  authors: Gardes, J., Maldivi, C., Boisset, D. et al.
+  venue: International Journal of Molecular Sciences
+  year: 2023
+  doi: 10.3390/ijms242216278
+  url: https://doi.org/10.3390/ijms242216278
+  citations: 1
+- title: Accuracy and tolerability of self-sampling of capillary blood for analysis
+    of inflammation and autoantibodies in rheumatoid arthritis patients—results from
+    a randomized controlled trial
+  authors: Knitza, J., Tascilar, K., Vuillerme, N. et al.
+  venue: Arthritis Research & Therapy
+  year: 2022
+  doi: 10.1186/s13075-022-02809-7
+  url: https://doi.org/10.1186/s13075-022-02809-7
+  citations: 55
+- title: 'Review and Analysis of German Mobile Apps for Inflammatory Bowel Disease
+    Management Using the Mobile Application Rating Scale: Systematic Search in App
+    Stores and Content Analysis'
+  authors: Gerner, M., Vuillerme, N., Aubourg, T. et al.
+  venue: JMIR mHealth and uHealth
+  year: 2022
+  doi: 10.2196/31102
+  url: https://doi.org/10.2196/31102
+  citations: 23
+- title: Tensions paradoxales et principe variationnel
+  authors: Demongeot, J., Aubourg, T., Carminati, G.G.
+  venue: Revue confluence
+  year: 2022
+  doi: 10.3917/confl.002.0035
+  url: https://doi.org/10.3917/confl.002.0035
+  citations: 0
+- title: 'Quality of a Supporting Mobile App for Rheumatic Patients: Patient-Based
+    Assessment Using the User Version of the Mobile Application Scale (uMARS)'
+  authors: Lambrecht, A., Vuillerme, N., Raab, C. et al.
+  venue: Frontiers in Medicine
+  year: 2021
+  doi: 10.3389/fmed.2021.715345
+  url: https://doi.org/10.3389/fmed.2021.715345
+  citations: 44
+- title: Comparison of Energy Expenditure Assessed Using Wrist- and Hip-Worn ActiGraph
+    GT3X in Free-Living Conditions in Young and Older Adults
+  authors: Guediri, A., Robin, L., Lacroix, J. et al.
+  venue: Frontiers in Medicine
+  year: 2021
+  doi: 10.3389/fmed.2021.696968
+  url: https://doi.org/10.3389/fmed.2021.696968
+  citations: 17
+- title: 'Gaining Insights Into the Estimation of the Circadian Rhythms of Social
+    Activity in Older Adults From Their Telephone Call Activity With Statistical Learning:
+    Observational Study'
+  authors: Aubourg, T., Demongeot, J., Vuillerme, N.
+  venue: Journal of Medical Internet Research
+  year: 2021
+  doi: 10.2196/22339
+  url: https://doi.org/10.2196/22339
+  citations: 2
+- title: 'Objective Measurements of Physical Activity and Sedentary Behavior Using
+    Wearable Devices in Patients With Axial Spondyloarthritis: Protocol for a Systematic
+    Review'
+  authors: Carlin, T., Soulard, J., Aubourg, T. et al.
+  venue: JMIR Research Protocols
+  year: 2021
+  doi: 10.2196/23359
+  url: https://doi.org/10.2196/23359
+  citations: 1
+- title: 'Circadian Rhythms in the Telephone Calls of Older Adults: Observational
+    Descriptive Study'
+  authors: Aubourg, T., Demongeot, J., Provost, H. et al.
+  venue: JMIR mHealth and uHealth
+  year: 2020
+  doi: 10.2196/12452
+  url: https://doi.org/10.2196/12452
+  citations: 10
+- title: Novel statistical approach for assessing the persistence of the circadian
+    rhythms of social activity from telephone call detail records in older adults
+  authors: Aubourg, T., Demongeot, J., Vuillerme, N.
+  venue: Scientific Reports
+  year: 2020
+  doi: 10.1038/s41598-020-77795-4
+  url: https://doi.org/10.1038/s41598-020-77795-4
+  citations: 6
+- title: 'Exploitation of Outgoing and Incoming Telephone Calls in the Context of
+    Circadian Rhythms of Social Activity Among Elderly People: Observational Descriptive
+    Study'
+  authors: Aubourg, T., Demongeot, J., Provost, H. et al.
+  venue: JMIR mHealth and uHealth
+  year: 2020
+  doi: 10.2196/13535
+  url: https://doi.org/10.2196/13535
+  citations: 3
+- title: Comparison of Step Count Assessed Using Wrist- and Hip-Worn Actigraph GT3X
+    in Free-Living Conditions in Young and Older Adults
+  authors: Mandigout, S., Lacroix, J., Perrochon, A. et al.
+  venue: Frontiers in Medicine
+  year: 2019
+  doi: 10.3389/fmed.2019.00252
+  url: https://doi.org/10.3389/fmed.2019.00252
+  citations: 34
+- title: 'Association between social asymmetry and depression in older adults: A phone
+    Call Detail Records analysis'
+  authors: Aubourg, T., Demongeot, J., Renard, F. et al.
+  venue: Scientific Reports
+  year: 2019
+  doi: 10.1038/s41598-019-49723-8
+  url: https://doi.org/10.1038/s41598-019-49723-8
+  citations: 11
+- title: 'Maxwell®: An Unsupervised Learning Approach for 5P Medicine'
+  authors: Gardes, J., Maldivi, C., Boisset, D. et al.
+  venue: Medinfo
+  year: 2019
+  doi: 10.3233/SHTI190486
+  url: https://doi.org/10.3233/SHTI190486
+  citations: 11
+- title: How to Measure Circadian Rhythms of Activity and Their Disruptions in Humans
+    Using Passive and Unobtrusive Capture of Phone Call Activity
+  authors: Aubourg, T., Demongeot, J., Renard, F. et al.
+  venue: Medinfo
+  year: 2019
+  doi: 10.3233/SHTI190569
+  url: https://doi.org/10.3233/SHTI190569
+  citations: 4

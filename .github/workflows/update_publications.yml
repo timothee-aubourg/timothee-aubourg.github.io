@@ -1,12 +1,12 @@
-name: Update Scholar Stats
+name: Update Publications
 
 on:
   schedule:
     - cron: '0 6 * * 1'   # every Monday at 06:00 UTC
-  workflow_dispatch:       # allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
-  update-stats:
+  update-publications:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,19 +21,15 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install scholarly pyyaml
+        run: pip install requests pyyaml
 
-      - name: Fetch Scholar stats
-        run: python fetch_scholar_stats.py
+      - name: Fetch publications
+        run: python fetch_publications.py
 
       - name: Commit and push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/scholar_stats.yml
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: update Scholar stats [skip ci]"
-            git push
-          fi
+          git add _data/publications.yml _data/pub_stats.yml
+          git diff --staged --quiet || git commit -m "chore: update publications [skip ci]"
+          git push

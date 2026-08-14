@@ -1,0 +1,8 @@
+# DOIs to feature at the top of the Publications page, in this order.
+# Metadata is pulled from _data/publications.yml, so nothing here goes stale.
+# To feature a different paper, add or reorder a DOI. That is the whole job.
+- 10.1136/bmjno-2026-001740
+- 10.1038/s41746-025-02148-2
+- 10.2196/22339
+- 10.1038/s41598-020-77795-4
+- 10.1038/s41598-019-49723-8
