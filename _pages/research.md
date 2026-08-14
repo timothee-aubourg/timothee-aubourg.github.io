@@ -19,7 +19,7 @@ The [Oxford Parkinson's Disease Centre](https://www.dpag.ox.ac.uk/opdc) has a lo
 
 ## Tooling
 
-I build agent-based tooling for my own analysis work: data quality checks, pipeline automation, and exploratory analysis across heterogeneous multi-site datasets. I was a finalist in the agentic AI track of the [Oxford Clinical AI Hackathon](https://enspire.ox.ac.uk/event/oxford-clinical-ai-hackathon-6-8th-april-2026) (2026).
+I build agent-based tooling for my own analysis work: data quality checks, pipeline automation, and exploratory analysis across heterogeneous multi-site datasets. I was a finalist in the agentic AI track of the [Oxford Clinical AI Hackathon](https://www.ox.ac.uk/events/oxford-clinical-ai-hackathon) (2026).
 
 ## Collaborations
 

@@ -15,7 +15,7 @@ author_profile: true
 *Jesus College, University of Oxford, April 2026*  
 🏅 **Finalist** · 🎓 **Scholarship Recipient**  
 Hosted by the [AI Competency Centre](https://aiccc.uk/), bringing together clinicians, engineers, and AI researchers to build and present solutions to real clinical problems.  
-→ [Event details](https://aiccc.uk/oxford-clinical-ai-hackathon)
+→ [Event details](https://www.ox.ac.uk/events/oxford-clinical-ai-hackathon)
 
 ---
 
@@ -27,7 +27,7 @@ Hosted by the [AI Competency Centre](https://aiccc.uk/), bringing together clini
 
 **Oxford EIT Health PhD Translational Fellowships 2019**  
 *University of Oxford, August 2019*  
-Judges' Vote Award Winner for mobilab, an AI kit for cholera detection and prevention.  
+Judges' Vote Award Winner for mobilab, a mobile connected AI kit for cholera detection and prevention.  
 → [Event details](https://www.liglab.fr/en/node/51)
 
 ---

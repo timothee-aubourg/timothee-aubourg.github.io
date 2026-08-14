@@ -4,9 +4,17 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ base_path }}/">{{ site.title }}</a>
-        <button id="mobile-nav-toggle" class="mobile-nav-toggle" aria-label="Toggle navigation">
+        {%- comment -%}
+          Deliberately a <div>, not a <button>. The remote theme's greedy-nav
+          script grabs $("#site-nav button") as its own overflow toggle: it
+          adds .hidden to whatever it finds and binds a second click handler.
+          Using a non-button element keeps that selector from matching.
+        {%- endcomment -%}
+        <div id="mobile-nav-toggle" class="mobile-nav-toggle" role="button"
+             tabindex="0" aria-label="Toggle navigation" aria-expanded="false"
+             aria-controls="mobile-nav">
           <span></span><span></span><span></span>
-        </button>
+        </div>
         <ul class="visible-links desktop-nav">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -19,7 +27,7 @@
             </li>
           {% endfor %}
         </ul>
-        <ul class="mobile-nav hidden">
+        <ul id="mobile-nav" class="mobile-nav hidden">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -38,9 +46,32 @@
 </div>
 
 <script>
-  document.getElementById('mobile-nav-toggle').addEventListener('click', function() {
-    var mobileNav = document.querySelector('.mobile-nav');
-    mobileNav.classList.toggle('hidden');
-    this.classList.toggle('open');
-  });
+  (function () {
+    var toggle = document.getElementById('mobile-nav-toggle');
+    var nav = document.getElementById('mobile-nav');
+    if (!toggle || !nav) return;
+
+    function setOpen(open) {
+      nav.classList.toggle('hidden', !open);
+      toggle.classList.toggle('open', open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+
+    toggle.addEventListener('click', function () {
+      setOpen(nav.classList.contains('hidden'));
+    });
+
+    // role="button" elements do not fire click on Enter/Space by default.
+    toggle.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar') {
+        e.preventDefault();
+        setOpen(nav.classList.contains('hidden'));
+      }
+    });
+
+    // Close after following a link, so returning via back button is not stuck open.
+    nav.addEventListener('click', function (e) {
+      if (e.target.closest('a')) setOpen(false);
+    });
+  })();
 </script>

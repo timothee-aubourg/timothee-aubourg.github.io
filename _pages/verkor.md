@@ -5,8 +5,7 @@ permalink: /industry/verkor/
 author_profile: true
 ---
 
-**AI Innovation Senior Engineer · Verkor, Grenoble · 2023–2024**  
-[verkor.com](https://verkor.com)
+**AI Innovation Senior Engineer · Verkor, Grenoble · 2023–2024**
 
 [← Industry](/industry/)
 
@@ -14,7 +13,7 @@ author_profile: true
 
 ## Context
 
-Verkor is a European battery cell manufacturer. I worked on the pilot production line, during the scale-up phase, when processes were still changing.
+[Verkor](https://verkor.com) is a European battery cell manufacturer. I worked on the pilot production line, during the scale-up phase, when processes were still changing.
 
 ## The problem
 

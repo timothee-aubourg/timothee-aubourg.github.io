@@ -13,7 +13,7 @@ My work is on smartphone and wearable data collected from people with Parkinson'
 
 I did my [PhD in Health Engineering](https://theses.fr/2020GRALS037) at the Université Grenoble-Alpes with Orange Labs (2020), asking whether rhythms in phone use track social behaviour and mental health in older adults. I then spent a year on wearable-based gait analysis, and three years [in industry](/industry/) as a data scientist and AI engineer, on multi-sensor fusion and ML systems in production. I returned to academia in 2024. Clinical constraints, sensor data, and fairly ordinary engineering discipline all have to hold together at once here, and I enjoy that combination.
 
-I served as Local Network Lead Liaison for [Reproducible Research Oxford](https://www.ox.ac.uk/research/support/research-culture/research-practice/reproducible-research-oxford) (2025–2026), and work with [Kneuhealth](https://www.kneuhealth.com/) on moving research-grade digital biomarkers toward clinical products.
+I served as Local Network Lead Liaison for [Reproducible Research Oxford](https://www.ox.ac.uk/research/support/research-culture/research-practice/reproducible-research-oxford) (2025–2026).
 
 ---
 
@@ -30,7 +30,7 @@ I served as Local Network Lead Liaison for [Reproducible Research Oxford](https:
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">April 2026</td>
-    <td style="padding: 6px 0;">Finalist and scholarship recipient, <a href="https://enspire.ox.ac.uk/event/oxford-clinical-ai-hackathon-6-8th-april-2026">Oxford Clinical AI Hackathon</a>, Agentic AI track, Jesus College, Oxford.</td>
+    <td style="padding: 6px 0;">Finalist and scholarship recipient, <a href="https://www.ox.ac.uk/events/oxford-clinical-ai-hackathon">Oxford Clinical AI Hackathon</a>, Agentic AI track, Jesus College, Oxford.</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2025</td>
@@ -54,7 +54,7 @@ I served as Local Network Lead Liaison for [Reproducible Research Oxford](https:
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2019</td>
-    <td style="padding: 6px 0;">Judges' Vote Award, <a href="https://www.liglab.fr/en/node/51">Oxford EIT Health PhD Translational Fellowships</a>, for mobilab, an AI kit for cholera detection and prevention.</td>
+    <td style="padding: 6px 0;">Judges' Vote Award, <a href="https://www.liglab.fr/en/node/51">Oxford EIT Health PhD Translational Fellowships</a>, for mobilab, a mobile connected AI kit for cholera detection and prevention.</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2018</td>

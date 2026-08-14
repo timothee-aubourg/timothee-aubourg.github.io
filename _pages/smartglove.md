@@ -5,8 +5,7 @@ permalink: /industry/smartglove/
 author_profile: true
 ---
 
-**Application Engineer, Data Scientist · ARaymond, Grenoble · 2021–2023**  
-[araymond.com](https://www.araymond.com/en)
+**Application Engineer, Data Scientist · ARaymond, Grenoble · 2021–2023**
 
 [← Industry](/industry/)
 
@@ -14,7 +13,7 @@ author_profile: true
 
 ## Context
 
-An internal startup incubator at ARaymond, set up to translate scientific AI projects into products that could be deployed in the field.
+An internal startup incubator at [ARaymond](https://www.araymond.com/en), set up to translate scientific AI projects into products that could be deployed in the field.
 
 ## The problem
 

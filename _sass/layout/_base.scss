@@ -408,9 +408,17 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   display: block;
 }
 
-#mobile-nav-toggle.hidden {
-  display: block !important;
-  visibility: visible !important;
+/* Burger turns into a cross while the menu is open. */
+.mobile-nav-toggle.open span:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.mobile-nav-toggle.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.mobile-nav-toggle.open span:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
 }
 
 @media (max-width: 925px) {
@@ -418,14 +426,41 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     display: none !important;
   }
 
-  .mobile-nav-toggle {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-
   .masthead {
     position: relative !important;
+  }
+
+  /* The theme's greedy-nav sets body padding-top to clear a fixed masthead.
+     The masthead is relative at this width, so that padding is dead space. */
+  body {
+    padding-top: 0 !important;
+  }
+
+  /* site.title is empty, so the bar collapses below the burger's own height.
+     Lay the nav out explicitly instead of relying on floats. */
+  #site-nav.greedy-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 44px;
+  }
+
+  .site-title {
+    float: none;
+    flex: 1 1 auto;
+  }
+
+  .mobile-nav-toggle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    float: none;
+    margin: 0 0 0 auto;
+    padding: 0.4em 0.25em;
+  }
+
+  .mobile-nav {
+    flex: 1 0 100%;
   }
 }
 
