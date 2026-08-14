@@ -54,7 +54,7 @@ I served as Local Network Lead Liaison for [Reproducible Research Oxford](https:
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2019</td>
-    <td style="padding: 6px 0;"><a href="https://www.liglab.fr/en/node/51">EIT Health</a> Translational Fellow and Judges' Award, Oxford.</td>
+    <td style="padding: 6px 0;">Judges' Vote Award, <a href="https://www.liglab.fr/en/node/51">Oxford EIT Health PhD Translational Fellowships</a>, for mobilab, an AI kit for cholera detection and prevention.</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;">2018</td>

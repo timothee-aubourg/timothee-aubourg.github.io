@@ -75,11 +75,11 @@ Full list available via [Google Scholar](https://scholar.google.com/citations?us
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;"><strong>2019</strong></td>
-    <td style="padding: 6px 0;">EIT Health Translational Fellow, Oxford</td>
+    <td style="padding: 6px 0;">Oxford EIT Health PhD Translational Fellowship, University of Oxford</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;"><strong>2019</strong></td>
-    <td style="padding: 6px 0;">EIT Health Judges' Award, Oxford</td>
+    <td style="padding: 6px 0;">Judges' Vote Award, Oxford EIT Health PhD Translational Fellowships (mobilab: AI kit for cholera detection and prevention)</td>
   </tr>
   <tr>
     <td style="padding: 6px 12px 6px 0; white-space: nowrap; vertical-align: top; color: #666;"><strong>2018</strong></td>

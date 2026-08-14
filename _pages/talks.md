@@ -25,9 +25,10 @@ Hosted by the [AI Competency Centre](https://aiccc.uk/), bringing together clini
 *International Medical Informatics Association World Congress, Lyon, France*  
 "How to Measure Circadian Rhythms of Activity and Their Disruptions in Humans Using Passive and Unobtrusive Capture of Phone Call Activity."
 
-**EIT Health Innovation Day**, Award Presentation  
-*Oxford, UK, 2019*  
-EIT Health Translational Fellow and Judges' Award recipient. Presented translational digital health research to European innovation panel.
+**Oxford EIT Health PhD Translational Fellowships 2019**  
+*University of Oxford, August 2019*  
+Judges' Vote Award Winner for mobilab, an AI kit for cholera detection and prevention.  
+→ [Event details](https://www.liglab.fr/en/node/51)
 
 ---
 
@@ -35,6 +36,13 @@ EIT Health Translational Fellow and Judges' Award recipient. Presented translati
 
 **Medical Faculty Presentation Award**, Université Grenoble-Alpes  
 *Grenoble, France*
+
+---
+
+## Teaching
+
+**Faculty Instructor**, [OICSD–UPL Faculty Visit to Oxford](https://www.some.ox.ac.uk/the-oicsd/collaborations/) *(July 2026)*  
+Hosted by the Oxford India Centre for Sustainable Development, Somerville College, University of Oxford. AI, pedagogy, and research-led teaching.
 
 ---
 
