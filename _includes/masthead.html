@@ -61,7 +61,9 @@
       setOpen(nav.classList.contains('hidden'));
     });
 
-    // role="button" elements do not fire click on Enter/Space by default.
+    /* role="button" elements do not fire click on Enter/Space by default.
+       Block comments only here: the compress layout strips newlines in
+       production, so a // comment would swallow the rest of the script. */
     toggle.addEventListener('keydown', function (e) {
       if (e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar') {
         e.preventDefault();
@@ -69,7 +71,7 @@
       }
     });
 
-    // Close after following a link, so returning via back button is not stuck open.
+    /* Close after following a link, so returning via back button is not stuck open. */
     nav.addEventListener('click', function (e) {
       if (e.target.closest('a')) setOpen(false);
     });
