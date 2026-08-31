@@ -38,7 +38,7 @@
   year: 2022
   doi: 10.2196/31102
   url: https://doi.org/10.2196/31102
-  citations: 23
+  citations: 24
 - title: Tensions paradoxales et principe variationnel
   authors: Demongeot, J., Aubourg, T., Carminati, G.G.
   venue: Revue confluence
@@ -62,6 +62,15 @@
   doi: 10.3389/fmed.2021.696968
   url: https://doi.org/10.3389/fmed.2021.696968
   citations: 17
+- title: 'Objective Measurements of Physical Activity and Sedentary Behavior Using
+    Wearable Devices in Patients With Axial Spondyloarthritis: Protocol for a Systematic
+    Review'
+  authors: Carlin, T., Soulard, J., Aubourg, T. et al.
+  venue: JMIR Research Protocols
+  year: 2021
+  doi: 10.2196/23359
+  url: https://doi.org/10.2196/23359
+  citations: 3
 - title: 'Gaining Insights Into the Estimation of the Circadian Rhythms of Social
     Activity in Older Adults From Their Telephone Call Activity With Statistical Learning:
     Observational Study'
@@ -71,15 +80,6 @@
   doi: 10.2196/22339
   url: https://doi.org/10.2196/22339
   citations: 2
-- title: 'Objective Measurements of Physical Activity and Sedentary Behavior Using
-    Wearable Devices in Patients With Axial Spondyloarthritis: Protocol for a Systematic
-    Review'
-  authors: Carlin, T., Soulard, J., Aubourg, T. et al.
-  venue: JMIR Research Protocols
-  year: 2021
-  doi: 10.2196/23359
-  url: https://doi.org/10.2196/23359
-  citations: 1
 - title: 'Circadian Rhythms in the Telephone Calls of Older Adults: Observational
     Descriptive Study'
   authors: Aubourg, T., Demongeot, J., Provost, H. et al.
@@ -95,7 +95,7 @@
   year: 2020
   doi: 10.1038/s41598-020-77795-4
   url: https://doi.org/10.1038/s41598-020-77795-4
-  citations: 6
+  citations: 7
 - title: 'Exploitation of Outgoing and Incoming Telephone Calls in the Context of
     Circadian Rhythms of Social Activity Among Elderly People: Observational Descriptive
     Study'
